@@ -1,0 +1,45 @@
+# Translation of Plugins - Persian Elementor - Development (trunk) in Persian
+# This file is distributed under the same license as the Plugins - Persian Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-18 10:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Persian Elementor - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "بسته فارسی ساز افزونه المنتور پرو به همراه اضافه شدن 10 فونت فارسی محبوب در بخش تایپوگرافی و بهبود ظاهر ویرایشگر با اضافه شدن فونت یکان برای زبان فارسی"
+msgstr "بسته فارسی ساز افزونه المنتور پرو به همراه اضافه شدن 10 فونت فارسی محبوب در بخش تایپوگرافی و بهبود ظاهر ویرایشگر با اضافه شدن فونت یکان برای زبان فارسی"
+
+#: includes/core/fonts.php:72
+msgid "فونت فارسی"
+msgstr "فونت فارسی"
+
+#: includes/core/fonts.php:75
+msgid "Google Early Access"
+msgstr "دسترسی زود هنگام گوگل"
+
+#: includes/core/fonts.php:74
+msgid "Google"
+msgstr "گوگل"
+
+#: includes/core/fonts.php:73
+msgid "System"
+msgstr "فونت های فارسی"
+
+#. Author URI of the plugin
+msgid "https://elementorfa.ir"
+msgstr "https://elementorfa.ir"
+
+#. Plugin URI of the plugin
+msgid "http://elementorfa.ir"
+msgstr "http://elementorfa.ir"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "المنتور فارسی"
+msgstr "المنتور فارسی"

@@ -1,0 +1,36 @@
+# Translation of Plugins - فارسی ساز قالب و فونت فارسی رایگان - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - فارسی ساز قالب و فونت فارسی رایگان - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-08 17:06:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - فارسی ساز قالب و فونت فارسی رایگان - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://parsmizban.com"
+msgstr "https://parsmizban.com"
+
+#. Author of the plugin/theme
+msgid "پارس میزبان"
+msgstr "پارس میزبان"
+
+#. Description of the plugin/theme
+msgid "به صورت رایگان و سریع، قالب وردپرس دانلود نمائید و آن را فارسی کنید."
+msgstr "به صورت رایگان و سریع، قالب وردپرس دانلود نمائید و آن را فارسی کنید."
+
+#. Plugin URI of the plugin/theme
+msgid "https://parsmizban.com/persian-font"
+msgstr "https://parsmizban.com/persian-font"
+
+#. Plugin Name of the plugin/theme
+msgid "فارسی ساز قالب و فونت فارسی رایگان"
+msgstr "فارسی ساز قالب و فونت فارسی رایگان"
+
+#: options.php:77
+msgid "Help"
+msgstr "Help"
